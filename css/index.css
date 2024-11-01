@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+}
+
+.C1, .C7, .C8 {
+    width: 100%;
+    background-color: rgba(253, 121, 183, 0.938);
+}
+
+.C1 {
+    height: 70px;
+}
+
+.C2, .C3 {
+    display: inline-block;
+    width: 49.5%;
+    height: 400px;
+    vertical-align: top;
+    margin-top: 20px;
+}
+
+.C2 {
+    background-color: rgba(252, 108, 180, 0.685);
+    
+}
+
+.C3 {
+    background-color: rgb(248, 120, 195);
+}
+
+.C4, .C5 {
+    width: 96%;
+    height: 180px;
+    background-color: rgba(252, 252, 252, 0.733);
+    margin: 10px 0;
+    margin-left: 10px;
+}
+
+.C7 {
+    height: 100px;
+    background-color: rgba(187, 87, 212, 0.781);
+    margin-top: 40px;
+}
+
+.C8 {
+    height: 60px;
+    background-color: rgba(255, 95, 228, 0.788);
+}
